@@ -1,0 +1,15 @@
+.dark  {
+    background-color: beige;
+    color:black
+}
+.light {
+    background-color: black;
+    color: beige;
+}
+.subsection.header{
+    color: brown;
+}
+.siddie {
+    color: coral;
+}
+.quirk{background-color: black;}
